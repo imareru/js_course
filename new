@@ -1,0 +1,4 @@
+POST https://test.someapi.com/v1/account/user/login/
+Content-Type: application/json
+
+{ "email": "someemail@gmail.com", "password": 1 }
